@@ -63,7 +63,7 @@ When scoring offers, weight these dimensions in order of importance:
 | **1.3x** | Healthcare / Life Sciences domain | Healthcare/life sciences/clinical = 5.0, adjacent (health data, biotech) = 4.0, general enterprise = 3.0 |
 | **1.3x** | IC seniority (Staff/Senior) | Staff or Senior IC = 5.0, mid-level IC = 3.0, management track = 2.0, junior = 1.0 |
 | **1.0x** | Compensation | Standard market-rate evaluation |
-| **1.0x** | Company quality | Standard evaluation (stage, funding, reputation) |
+| **1.0x** | Company quality | Mid-to-large companies preferred. Early-stage startups = 2.0 (see Company Size rubric). Established AI team required. |
 | **1.0x** | Growth potential | Standard evaluation (career trajectory, learning) |
 | **1.2x** | Culture & Sustainability | See Culture & Sustainability rubric below |
 | **1.2x** | Strategic Trajectory | See Strategic Trajectory rubric below |
@@ -72,6 +72,18 @@ When scoring offers, weight these dimensions in order of importance:
 - On-site or hybrid required with no remote option
 - No AI scope in the role
 - IC role with zero strategic ownership
+- Early-stage startup (<50 people, pre-PMF, or no dedicated AI team/budget)
+- Sole AI PM role with no team or resources
+- Reports to middle management (not CPO/VP AI/SVP/CTO)
+- Contract/consulting without guaranteed FTE conversion
+
+### Company Size & Maturity (scoring rubric)
+
+**Preferred (4.0-5.0):** Mid-to-large companies (200+ employees) with established AI teams, dedicated resources, and clear product org structure. Examples: Danaher-scale enterprises, Big Tech health units, well-funded Series C+ healthtech.
+
+**Acceptable (3.0-3.5):** Series B+ startups (100+ employees) with proven revenue and dedicated AI team. Must have product-market fit.
+
+**Avoid (auto-cap 2.0):** Pre-seed to Series A startups where the PM would be the sole AI person, wearing 200+ hats with constant resource constraints. Flag as "startup risk" in evaluation.
 
 ### Culture & Sustainability (scoring rubric)
 

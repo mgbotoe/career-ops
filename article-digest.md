@@ -183,17 +183,22 @@ Compact proof points from portfolio, publications, and projects. Read by career-
 
 ## AI Lab Portfolio (madinagbotoe.com/ai-lab)
 
-### RAG System
-**What it is:** Retrieval-augmented generation system demonstrating hands-on AI building.
-**Why it matters:** Shows the candidate doesn't just manage AI -- builds it. Differentiator for roles where technical credibility matters.
+**Tech stack:** OpenAI, Claude/Anthropic, Next.js (vibe coded)
+**Portfolio URL:** https://madinagbotoe.com/ai-lab
+
+### RAG System -- Multi-Implementation Approach
+**What it is:** RAG system with different retrieval-augmented generation implementation approaches, applied to movies, foods, and portfolio content. Demonstrates understanding of RAG architecture trade-offs, not just one cookbook approach.
+**Why it matters:** Shows the candidate doesn't just manage AI -- builds it. Multiple RAG implementations show understanding of when to use different retrieval strategies (keyword vs. semantic vs. hybrid). Directly relevant for Healthcare AI PM and AI Enablement PM roles where RAG is a core pattern.
+
+### Guardrail Implementation Guide
+**What it is:** Detailed implementation of AI guardrails and a guide on how to build your own RAG system.
+**Why it matters:** Demonstrates understanding of AI safety, output quality control, and responsible AI -- critical for healthcare and regulated industries. Shows ability to teach and document technical concepts (relevant for enablement roles).
 
 ### Embedding Visualizer
 **What it is:** Tool for visualizing embedding spaces.
 **Why it matters:** Demonstrates understanding of how LLMs represent information -- useful for RAG, search, and classification discussions.
 
-### Additional AI Projects & Demos
-**Portfolio URL:** https://madinagbotoe.com/ai-lab
-**Why it matters:** Living proof of hands-on AI capability beyond enterprise PM work.
+**Overall portfolio significance:** Living proof of hands-on AI capability beyond enterprise PM work. Vibe-coded in Next.js with OpenAI + Claude -- shows willingness to build, not just manage. Directly counters the "has she actually touched AI code?" concern that some hiring managers have about PM candidates.
 
 ---
 
