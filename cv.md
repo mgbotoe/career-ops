@@ -78,7 +78,7 @@ Drove EHR workflow improvements and clinical quality innovation across ambulator
 **Product Strategy & Delivery:** Roadmapping, product lifecycle management, GTM planning, portfolio management, pricing transformation, VOC research
 **Clinical & Technical:** HL7, FHIR, LIS/Middleware, EHR integration (Epic), workflow automation, interoperability
 **Regulatory & Risk:** FDA 21 CFR Part 11, HIPAA, ISO 13485, IVD-CE, cybersecurity, risk management
-**Data & Analytics:** Tableau, Power BI, SQL, A/B testing, market research automation, Lean/Six Sigma (value stream mapping, kaizen, structured problem solving)
+**Data & Analytics:** Tableau, Power BI, A/B testing, market research automation, Lean/Six Sigma (value stream mapping, kaizen, structured problem solving)
 **Stakeholder Management:** Executive communication (VP+), McKinsey partnership management, cross-business unit coordination, team mentoring
 
 ---
