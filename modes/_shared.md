@@ -30,19 +30,12 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 
 | Archetype | Thematic axes | What they buy |
 |-----------|---------------|---------------|
-| **AI Platform / LLMOps Engineer** | Evaluation, observability, reliability, pipelines | Someone who puts AI in production with metrics |
-| **Agentic Workflows / Automation** | HITL, tooling, orchestration, multi-agent | Someone who builds reliable agent systems |
-| **Technical AI Product Manager** | GenAI/Agents, PRDs, discovery, delivery | Someone who translates business to AI product |
-| **AI Solutions Architect** | Hyperautomation, enterprise, integrations | Someone who designs end-to-end AI architectures |
-| **AI Forward Deployed Engineer** | Client-facing, fast delivery, prototyping | Someone who delivers AI solutions to clients fast |
-| **AI Transformation Lead** | Change management, adoption, org enablement | Someone who leads AI transformation in an org |
-
-<!-- [CUSTOMIZE] Edit the archetypes above to match YOUR target roles.
-     For example, if you're a backend engineer, replace with:
-     - Senior Backend Engineer
-     - Staff Platform Engineer
-     - Engineering Manager
-     etc. -->
+| **Staff AI Product Manager** | Enterprise AI, LLMs, RAG, Copilot, PRDs, roadmaps, business cases | Someone who owns AI product strategy end-to-end with $100M+ portfolio experience |
+| **Director of AI Strategy** | AI adoption, ROI modeling, executive alignment, org enablement | Someone who builds the AI playbook for the enterprise and drives measurable outcomes |
+| **Head of AI Enablement** | Change management, Copilot rollouts, training, adoption metrics | Someone who makes AI actually work across 500+ person organizations |
+| **Senior AI Product Manager (Enterprise)** | GenAI/Agents, discovery, delivery, stakeholder mgmt | Someone who translates business problems into shipped AI products |
+| **AI Solutions Architect** | System design, integrations, enterprise-ready, healthcare/life sciences | Someone who designs end-to-end AI architectures with regulatory credibility |
+| **AI Transformation Lead** | Digital transformation, pricing, operations, McKinsey-style rigor | Someone who leads AI transformation with measurable P&L impact |
 
 ### Adaptive Framing by Archetype
 
@@ -50,14 +43,12 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 
 | If the role is... | Emphasize about the candidate... | Proof point sources |
 |-------------------|----------------------------------|---------------------|
-| Platform / LLMOps | Production systems builder, observability, evals, closed-loop | article-digest.md + cv.md |
-| Agentic / Automation | Multi-agent orchestration, HITL, reliability, cost | article-digest.md + cv.md |
-| Technical AI PM | Product discovery, PRDs, metrics, stakeholder mgmt | cv.md + article-digest.md |
-| Solutions Architect | System design, integrations, enterprise-ready | article-digest.md + cv.md |
-| Forward Deployed Engineer | Fast delivery, client-facing, prototype to prod | cv.md + article-digest.md |
-| AI Transformation Lead | Change management, team enablement, adoption | cv.md + article-digest.md |
-
-<!-- [CUSTOMIZE] Map YOUR specific projects/articles to each archetype above -->
+| Staff AI PM | $156M portfolio, enterprise AI ownership (LLMs, RAG, Copilot, multi-agent), $55M pipeline built at Beckman Coulter | cv.md + article-digest.md |
+| Director of AI Strategy | $51-71M pricing transformation with McKinsey, AI strategy across 3 Danaher OpCos, board-level communication | cv.md + article-digest.md |
+| Head of AI Enablement | Copilot deployment to 500+ HRBPs, $4.3M productivity savings, change management at enterprise scale | cv.md + article-digest.md |
+| Senior AI PM (Enterprise) | Product discovery, regulatory credibility (FDA, ISO 13485), healthcare AI from UCSF to Danaher | cv.md + article-digest.md |
+| Solutions Architect | End-to-end system design, EHR integration (CM-SHARE), clinical informatics, enterprise AI architecture | cv.md + article-digest.md |
+| AI Transformation Lead | P&L impact ($51-71M), McKinsey partnership, cross-OpCo transformation, FDA cybersecurity delivery | cv.md + article-digest.md |
 
 ### Exit Narrative (use in ALL framings)
 
@@ -75,13 +66,14 @@ Use the candidate's exit story from `config/profile.yml` to frame ALL content:
 
 ### Cross-cutting Advantage
 
-Frame profile as **"Technical builder with real-world proof"** that adapts framing to the role:
-- For PM: "builder who reduces uncertainty with prototypes then productionizes with discipline"
-- For FDE: "builder who delivers fast with observability and metrics from day 1"
-- For SA: "builder who designs end-to-end systems with real integration experience"
-- For LLMOps: "builder who puts AI in production with closed-loop quality systems"
+Frame profile as **"Enterprise AI leader with clinical roots and P&L impact"** that adapts framing to the role:
+- For Staff AI PM: "product leader who owns the full arc from strategy to shipped AI -- $156M portfolio, 110% revenue targets"
+- For Director of AI Strategy: "strategist who partners with McKinsey and drives $51-71M transformations across multiple business units"
+- For Head of AI Enablement: "enablement leader who deploys AI to 500+ users with measurable ROI ($4.3M savings)"
+- For AI Solutions Architect: "architect with clinical depth (UCSF, Sutter) and regulatory credibility (FDA, ISO 13485)"
+- For AI Transformation Lead: "transformation driver who delivers early (FDA cybersecurity 2 months ahead) and at scale (3 OpCos)"
 
-Convert "builder" into a professional signal, not a "hobby maker". Real proof points make this credible.
+Convert "clinical roots" into a strategic differentiator -- rare domain depth that most AI PMs lack. Peer-reviewed publications (JMIR, Nature) and WSJ feature provide external validation.
 
 ### Portfolio as Proof Point (use in high-value applications)
 
