@@ -34,6 +34,8 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 | **Healthcare AI PM** | Clinical AI, ambient documentation, diagnostic AI, health data platforms, EHR integration | Someone with clinical roots (UCSF, Sutter) who builds AI products that doctors actually use |
 | **Life Sciences Tech PM** | Lab informatics, R&D platforms, regulatory-adjacent AI, FDA/ISO 13485 | Someone who ships regulated software on time (FDA cybersecurity 2mo early) with domain credibility |
 | **AI Enablement PM** | Enterprise productivity AI, Copilot deployments, agent workflows, adoption metrics | Someone who rolls out AI to 500+ users and measures the $4.3M in savings |
+| **AI Program Manager / Chief of Staff AI** | AI operations, cross-functional AI coordination, org-wide AI adoption, portfolio management | Someone who runs the AI operating rhythm across business units -- McKinsey-style rigor at Danaher scale |
+| **AI Transformation Lead** | Change management + AI, digital health strategy, clinical informatics PM, org enablement | Someone who leads AI transformation with P&L impact ($51-71M) and clinical domain credibility |
 
 ### Adaptive Framing by Archetype
 
@@ -45,6 +47,8 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 | Healthcare AI PM | Clinical roots (UCSF, Sutter), CM-SHARE EHR pilot (4 clinics, 2 hospitals, 7-10 min saved/visit), peer-reviewed publications (JMIR, Nature) | cv.md + article-digest.md |
 | Life Sciences Tech PM | FDA cybersecurity delivered 2mo early, ISO 13485, $55M pipeline at Beckman Coulter, 110% revenue targets, DoD compliance | cv.md + article-digest.md |
 | AI Enablement PM | Copilot deployment to 500+ HRBPs, $4.3M annualized productivity savings, multi-agent and RAG systems, enterprise adoption | cv.md + article-digest.md |
+| AI Program Manager / CoS AI | Cross-OpCo AI coordination at Danaher, McKinsey partnership management, $156M portfolio governance, org-wide AI operating rhythm | cv.md + article-digest.md |
+| AI Transformation Lead | $51-71M pricing transformation, clinical informatics (UCSF/Sutter), digital health strategy, FDA compliance + change management | cv.md + article-digest.md |
 
 ### Scoring Weights (evaluation priority)
 
@@ -59,11 +63,115 @@ When scoring offers, weight these dimensions in order of importance:
 | **1.0x** | Compensation | Standard market-rate evaluation |
 | **1.0x** | Company quality | Standard evaluation (stage, funding, reputation) |
 | **1.0x** | Growth potential | Standard evaluation (career trajectory, learning) |
+| **1.2x** | Culture & Sustainability | See Culture & Sustainability rubric below |
+| **1.2x** | Strategic Trajectory | See Strategic Trajectory rubric below |
 
 **Deal-breakers (auto-cap score at 2.0/5):**
 - On-site or hybrid required with no remote option
 - No AI scope in the role
 - IC role with zero strategic ownership
+
+### Culture & Sustainability (scoring rubric)
+
+**Yellow flags in JD (score 2.0-3.0):**
+- "fast-paced", "wear many hats", "startup speed", "high urgency"
+- On-call expectations, no mention of PTO
+- Vague or missing work-life balance language
+
+**Green flags in JD (score 4.0-5.0):**
+- Async culture, sustainable pace, no-meeting days
+- Documented PTO minimums, parental leave mentioned
+- Explicit remote-first culture with home office support
+
+**Company-level red flags (auto-cap at 2.0):**
+- Glassdoor below 3.5
+- Mass layoffs in last 18 months
+- No dedicated HR infrastructure
+
+**Known green-light companies (start at 4.0+):**
+- Veeva, ServiceNow, Salesforce, Thermo Fisher -- known for strong benefits cultures
+
+### Strategic Trajectory (scoring rubric)
+
+**Green (4.0-5.0):**
+- AI scope is core to revenue model
+- Dedicated AI team exists
+- Role builds toward VP AI / CPO / CDO path
+- Company in growing segment (clinical AI, enterprise automation)
+
+**Yellow (2.5-3.5):**
+- AI is a cost center experiment
+- Role titled "AI PM" but owns a single chatbot
+- Market segment flattening
+
+**Red (1.0-2.0):**
+- AI purely for PR
+- Function being replaced by AI
+- Legacy tech with no AI roadmap
+
+### Benefits Evaluation (include in every report)
+
+**IMPORTANT:** Most JDs do not list benefits. When benefits info is missing, flag it and include the recruiter screen questions below.
+
+**Deal-breakers (auto-flag as SKIP if confirmed):**
+- No health insurance or employee-only coverage
+- Equity-only or below-market cash
+- No 401k match
+- Less than 15 days PTO (flag unlimited PTO with no floor as yellow)
+
+**Green lights (boost score by 0.1-0.3):**
+- 401k with 4%+ match
+- Fully paid family health coverage
+- L&D budget $1k+/year
+- Home office stipend (signals real remote culture)
+- Paid parental leave 12+ weeks
+- Mental health benefits / EAP
+- Sabbatical eligibility
+
+### Recruiter Screen Prep (include in every report)
+
+**ALWAYS** append a recruiter screen section to every evaluation report. These questions cannot be answered from the JD alone:
+
+**Benefits & Work-Life:**
+1. "What does health coverage include for dependents?"
+2. "Is there a minimum PTO floor?" (especially important if "unlimited")
+3. "What is the 401k match?"
+4. "Is there an L&D or home office budget?"
+
+**Team & AI Maturity:**
+5. "How large is the AI/ML team, and who does this role report to?"
+6. "Is AI a revenue driver or internal cost center at this company?"
+7. "What AI tools/infrastructure are already in place?"
+8. "What does success look like at 6 months in this role?"
+
+**Work-Life Balance:**
+9. "What are the core collaboration hours and meeting cadence?"
+10. "Is there on-call expectation for this role?"
+11. "How does the team handle async work across time zones?"
+
+**Role-Specific (adapt per archetype):**
+- For Healthcare AI PM: "What stage is the product -- R&D, pilot, or scaled? Any FDA/regulatory involvement?"
+- For Enterprise AI Strategy PM: "How many AI use cases are in production vs. pilot today?"
+- For AI Enablement PM: "What adoption metrics does the team track?"
+- For Life Sciences Tech PM: "What regulatory frameworks apply to this product?"
+- For AI Program Manager: "How many cross-functional teams does this role coordinate?"
+- For AI Transformation Lead: "What is the executive sponsor structure for AI initiatives?"
+
+### Big Tech & Consulting -- Healthcare Team Detection
+
+**IMPORTANT:** Google, Microsoft, Amazon, Apple, Salesforce, Palantir, Databricks, Snowflake, NVIDIA, IBM, McKinsey, BCG, Accenture, and Deloitte often post roles under business unit names. **Flag any role at these companies where the team or product is healthcare or life sciences adjacent**, even if the title does not explicitly say "healthcare."
+
+**Known healthcare business units to watch:**
+- Google: Google Health, DeepMind Health, Care Studio, Fitbit Health
+- Microsoft: Nuance, Azure Health, Dragon Ambient eXperience (DAX), Microsoft Cloud for Healthcare
+- Amazon: AWS HealthLake, Amazon Clinic, One Medical, Amazon Pharmacy
+- Apple: Health Records, Research app, Health team
+- Salesforce: Health Cloud, Life Sciences Cloud
+- Palantir: Foundry for Healthcare, HHS contracts
+- McKinsey: QuantumBlack (healthcare practice)
+- BCG: BCG X (healthcare/life sciences)
+- Accenture: Accenture Health, Accenture Federal (health)
+- Deloitte: Deloitte Health, Government & Public Services (health)
 
 ### Exit Narrative (use in ALL framings)
 
@@ -86,6 +194,8 @@ Frame profile as **"Enterprise AI leader with clinical roots and P&L impact"** t
 - For Healthcare AI PM: "rare clinical domain depth (UCSF, Sutter) with peer-reviewed publications and hands-on EHR integration -- not just an AI PM who read about healthcare"
 - For Life Sciences Tech PM: "ships regulated software on time (FDA 2mo early), built $55M pipeline at Beckman Coulter, understands ISO 13485 and DoD compliance from the inside"
 - For AI Enablement PM: "deploys AI to 500+ users with measurable ROI ($4.3M savings), manages Copilot + multi-agent + RAG at enterprise scale"
+- For AI Program Manager / CoS AI: "runs the AI operating rhythm across 3 OpCos -- McKinsey partnership, portfolio governance, cross-functional coordination at Danaher scale"
+- For AI Transformation Lead: "bridges clinical frontlines (UCSF, Sutter) and enterprise transformation ($51-71M) -- change management with domain credibility and P&L accountability"
 
 Convert "clinical roots" into a strategic differentiator -- rare domain depth that most AI PMs lack. Peer-reviewed publications (JMIR, Nature) and WSJ feature provide external validation.
 
