@@ -36,6 +36,7 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 | **AI Enablement PM** | Enterprise productivity AI, Copilot deployments, agent workflows, adoption metrics | Someone who rolls out AI to 500+ users and measures the $4.3M in savings |
 | **AI Program Manager / Chief of Staff AI** | AI operations, cross-functional AI coordination, org-wide AI adoption, portfolio management | Someone who runs the AI operating rhythm across business units -- McKinsey-style rigor at Danaher scale |
 | **AI Transformation Lead** | Change management + AI, digital health strategy, clinical informatics PM, org enablement | Someone who leads AI transformation with P&L impact ($51-71M) and clinical domain credibility |
+| **Clinical Informatics PM** | EHR optimization, clinical decision support, ambient AI, health data applications, provider workflow | Someone who's built CDS algorithms in Epic, launched EHR pilots, and published in JMIR + Nature |
 
 ### Adaptive Framing by Archetype
 
@@ -49,6 +50,7 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 | AI Enablement PM | Copilot deployment to 500+ HRBPs, $4.3M annualized productivity savings, multi-agent and RAG systems, enterprise adoption | cv.md + article-digest.md |
 | AI Program Manager / CoS AI | Cross-OpCo AI coordination at Danaher, McKinsey partnership management, $156M portfolio governance, org-wide AI operating rhythm | cv.md + article-digest.md |
 | AI Transformation Lead | $51-71M pricing transformation, clinical informatics (UCSF/Sutter), digital health strategy, FDA compliance + change management | cv.md + article-digest.md |
+| Clinical Informatics PM | CM-SHARE EHR pilot (4 clinics, 2 hospitals, ~800 visits/mo), Epic CDS algorithms (ADA guidelines, 1,000+ patients), Tableau dashboards for 30+ clinicians, 2 peer-reviewed publications | cv.md + article-digest.md |
 
 ### Scoring Weights (evaluation priority)
 
@@ -196,6 +198,7 @@ Frame profile as **"Enterprise AI leader with clinical roots and P&L impact"** t
 - For AI Enablement PM: "deploys AI to 500+ users with measurable ROI ($4.3M savings), manages Copilot + multi-agent + RAG at enterprise scale"
 - For AI Program Manager / CoS AI: "runs the AI operating rhythm across 3 OpCos -- McKinsey partnership, portfolio governance, cross-functional coordination at Danaher scale"
 - For AI Transformation Lead: "bridges clinical frontlines (UCSF, Sutter) and enterprise transformation ($51-71M) -- change management with domain credibility and P&L accountability"
+- For Clinical Informatics PM: "built CDS algorithms in Epic, launched multi-site EHR pilot impacting 800 visits/month, and published in JMIR + Nature -- not just a PM who talks about clinical workflows, but one who's shipped them"
 
 Convert "clinical roots" into a strategic differentiator -- rare domain depth that most AI PMs lack. Peer-reviewed publications (JMIR, Nature) and WSJ feature provide external validation.
 
